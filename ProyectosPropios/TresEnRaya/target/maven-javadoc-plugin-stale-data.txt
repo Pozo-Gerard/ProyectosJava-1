@@ -1,0 +1,44 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'C:/Users/Administrator/Documents/Personal/ProgramacionRoxysta/Personal/Java/ProyectosJAVA/PorAcabar/TresEnRaya/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Administrator/Documents/Personal/ProgramacionRoxysta/Personal/Java/ProyectosJAVA/PorAcabar/TresEnRaya/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'demo 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'demo 1.0-SNAPSHOT API'
+com.tresenraya
+com.tresenraya.Objects
+com.tresenraya.Tools
+C:\Users\Administrator\Documents\Personal\ProgramacionRoxysta\Personal\Java\ProyectosJAVA\PorAcabar\TresEnRaya\src\main\java = 1739111017737
+C:\Users\Administrator\Documents\Personal\ProgramacionRoxysta\Personal\Java\ProyectosJAVA\PorAcabar\TresEnRaya\target\reports\apidocs\allclasses-index.html = 1740580448785
+C:\Users\Administrator\Documents\Personal\ProgramacionRoxysta\Personal\Java\ProyectosJAVA\PorAcabar\TresEnRaya\target\reports\apidocs\allpackages-index.html = 1740580448786
+C:\Users\Administrator\Documents\Personal\ProgramacionRoxysta\Personal\Java\ProyectosJAVA\PorAcabar\TresEnRaya\target\reports\apidocs\element-list = 1740580448745
+C:\Users\Administrator\Documents\Personal\ProgramacionRoxysta\Personal\Java\ProyectosJAVA\PorAcabar\TresEnRaya\target\reports\apidocs\help-doc.html = 1740580448801
+C:\Users\Administrator\Documents\Personal\ProgramacionRoxysta\Personal\Java\ProyectosJAVA\PorAcabar\TresEnRaya\target\reports\apidocs\index-all.html = 1740580448796
+C:\Users\Administrator\Documents\Personal\ProgramacionRoxysta\Personal\Java\ProyectosJAVA\PorAcabar\TresEnRaya\target\reports\apidocs\index.html = 1740580448777
+C:\Users\Administrator\Documents\Personal\ProgramacionRoxysta\Personal\Java\ProyectosJAVA\PorAcabar\TresEnRaya\target\reports\apidocs\member-search-index.js = 1740580448789
+C:\Users\Administrator\Documents\Personal\ProgramacionRoxysta\Personal\Java\ProyectosJAVA\PorAcabar\TresEnRaya\target\reports\apidocs\module-search-index.js = 1740580448787
+C:\Users\Administrator\Documents\Personal\ProgramacionRoxysta\Personal\Java\ProyectosJAVA\PorAcabar\TresEnRaya\target\reports\apidocs\overview-summary.html = 1740580448798
+C:\Users\Administrator\Documents\Personal\ProgramacionRoxysta\Personal\Java\ProyectosJAVA\PorAcabar\TresEnRaya\target\reports\apidocs\overview-tree.html = 1740580448775
+C:\Users\Administrator\Documents\Personal\ProgramacionRoxysta\Personal\Java\ProyectosJAVA\PorAcabar\TresEnRaya\target\reports\apidocs\package-search-index.js = 1740580448788
+C:\Users\Administrator\Documents\Personal\ProgramacionRoxysta\Personal\Java\ProyectosJAVA\PorAcabar\TresEnRaya\target\reports\apidocs\search.html = 1740580448798
+C:\Users\Administrator\Documents\Personal\ProgramacionRoxysta\Personal\Java\ProyectosJAVA\PorAcabar\TresEnRaya\target\reports\apidocs\tag-search-index.js = 1740580448789
+C:\Users\Administrator\Documents\Personal\ProgramacionRoxysta\Personal\Java\ProyectosJAVA\PorAcabar\TresEnRaya\target\reports\apidocs\type-search-index.js = 1740580448788
