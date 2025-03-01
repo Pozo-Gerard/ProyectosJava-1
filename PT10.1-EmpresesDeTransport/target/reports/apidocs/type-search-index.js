@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.mycompany.pt10.empresesdetransport","l":"Caixa"},{"p":"com.mycompany.pt10.empresesdetransport","l":"CaixaCartro"},{"p":"com.mycompany.pt10.empresesdetransport","l":"PT101EmpresesDeTransport"}];updateSearchResults();
